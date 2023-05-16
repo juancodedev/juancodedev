@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @juanshocl
 - 👀 I’m interested in backend technologies
 - 🌱 I’m currently learning aws serverless and python
+- I’m currently a backend developer in python and server technologies with aws.
 <!--- 💞️ I’m looking to collaborate on backend technologies and--->
 - 📫 How to reach me www.linkedin.com/in/juanshocl
 
