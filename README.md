@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @juanshocl
-- 👀 I’m interested in backend technologies
-- 🌱 I’m currently learning aws serverless and python
+- 👋 Hi, I’m @juanshocl.
+- 👀 I’m interested in full stack technologies.
+- 💞️ knowledge of python and AWS Serverless.
+- 🌱 I’m currently learning JavaScript, React, NodeJs and NextJs.
 - I’m currently a backend developer in python and server technologies with aws.
 <!--- 💞️ I’m looking to collaborate on backend technologies and--->
-- 📫 How to reach me www.linkedin.com/in/juanshocl
+- 📫 How to reach me www.linkedin.com/in/juanshocl.
 
 <!---
 juanshocl/juanshocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
