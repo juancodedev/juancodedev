@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=juancodedev)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👋 Hi, I’m @juanshocl.
 - 👀 I’m interested in full stack technologies.
 - 💞️ knowledge of python and AWS Serverless.
