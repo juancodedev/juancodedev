@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/juancode"><img src="https://api.daily.dev/devcards/v2/VxKaEz3iwE20SKRSrqDE2.png?type=default&r=5xf" width="356" alt="Juan Muñoz's Dev Card"/></a>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=juancodedev)](https://github.com/ryo-ma/github-profile-trophy)
 
 
