@@ -14,22 +14,19 @@
 juanshocl/juanshocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Professional Profile: Juan Muñoz Castillo (@juanshocl)
-
 - **Role:** Software Engineer | Full Stack Developer
 - **Total Experience:** 19+ years in IT.
 - **Location:** Santiago, Chile.
 
 ## Summary
-Full-Stack Developer with over 19 years of experience. Specialist in process automation, AWS serverless architectures (Lambda, S3, RDS, API Gateway), and development with Python, React, and modern frameworks. Possesses a solid foundation of 14 years in IT Support (Quintec), which provides a unique perspective on operational continuity and effective solutions for end-users.
+Full-Stack Developer with over 4 years of experience. Specialist in process automation, AWS serverless architectures (Lambda, S3, RDS, API Gateway), and development with Python, React, and modern frameworks. Possesses a solid foundation of 14 years in IT Support (Quintec), which provides a unique perspective on operational continuity and effective solutions for end-users.
 
 ## GitHub / Online Presence
-- **GitHub:** @juanshocl
+- **GitHub:** @juancodedev
 - **Interests:** Full stack technologies.
 - **Key Knowledge:** Python, AWS Serverless.
 - **Currently Learning:** JavaScript, React, NodeJs, NextJs.
-- **Current Role:** Backend developer in Python and serverless technologies with AWS.
+- **Current Role:** Full Stack Developer.
 - **Contact:** [www.linkedin.com/in/juanshocl](https://www.linkedin.com/in/juanshocl)
 
 ## Professional Experience
