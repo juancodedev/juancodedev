@@ -1,6 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juancodedev)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=juancodedev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Professional Profile: Juan Muñoz Castillo (@juancodedev)
 <!---[- 👋 Hi, I’m @juanshocl.
